@@ -1,4 +1,4 @@
-testnew cls 
+testnew class
 
 old class new repo
 
